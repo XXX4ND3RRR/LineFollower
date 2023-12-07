@@ -12,5 +12,5 @@
 |         7|ESP32 NodeMCU|microcontroller van de robot|€12,95|1|€12,95|
 |         8|button|voor aan/uitzetten van de motor|€1,09|1|€1,09|
 |         9|SW18650-30SP|3000mAh - 15A|€3,25|2|€6,5|
-|------------------------------------------------------------|
-|TOTAAL|€44,85|
+||
+|TOTAAL|||||€44,85|
