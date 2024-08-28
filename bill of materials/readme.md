@@ -10,7 +10,7 @@
 |         5|batterijhouder|houder voor 2x18650|€1,89|1|€1,89|
 |         6|DRV8833|voor aansturen van de motors|€3,65|1|€3,65|
 |         7|ESP32 NodeMCU|microcontroller van de robot|€12,95|1|€12,95|
-|         8|button|voor aan/uitzetten van de motor|€1,09|1|€1,09|
+|         8|button|voor aan/uitzetten van de motor|€1,09|2|€2,18|
 |         9|SW18650-30SP|3000mAh - 15A|€3,25|2|€6,5|
 ||
-|TOTAAL|||||€44,85|
+|TOTAAL|||||€45,94|
