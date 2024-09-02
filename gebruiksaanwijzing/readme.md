@@ -18,4 +18,4 @@ De robot rijdt vrij stabiel met volgende parameters, deze kunnen ingesteld worde
 - Kd: 10
 
 ### start/stop button
-De robot kan op 2 manieren gestart en gestopt worden. Enerzijds 
+De robot kan op 2 manieren gestart en gestopt worden. Enerzijds door op de app op start te drukken. anderzijds door op de groene knop te drukken op de robot zelf. de robot zal bij eender van de 2 beginnen starten na 1 seconde
