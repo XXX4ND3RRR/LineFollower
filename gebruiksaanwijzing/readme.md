@@ -5,13 +5,14 @@ de batterijen zijn 18650's en dienen uit de robot gehaald te worden en opgeladen
 
 ### draadloze communicatie
 #### verbinding maken
-uitleg over het verbinden van de robot met laptop / smartphone
+Download de app RemoteXY. Zorg dat de robot aan staat en zoek naar nieuwe apparaten.
+De robot zou weer moeten gegeven worden en zo kan je verbinding maken met de robot.
 
 ### kalibratie
 De robot moet voordat hij kan rijden eerst gekalibreert worden. dit kan je doen aan de hand van de oranje knop op het robotje. En de sensoren over de zwarte lijn te bewegen voor optimale kalibratie.
 
 ### settings
-De robot rijdt vrij stabiel met volgende parameters:  
+De robot rijdt vrij stabiel met volgende parameters, deze kunnen ingesteld worden via de app. 
 - Kp: 1
 - Ki: 0
 - Kd: 10
